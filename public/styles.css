@@ -1,0 +1,34 @@
+.addmargin {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.centeralign {
+  display: block;
+  margin: 10px;
+  float: left;
+  width: 25%;
+}
+
+.card-centeralign {
+	margin-left: 10%;
+}
+
+.image-size {
+	width: 266px;
+}
+
+.customer-detail{
+	font-size: 10px;
+}
+
+.align-left {
+	text-align: left;
+}
+.align-right {
+	text-align: right;
+}
+
+.panel-body {
+	padding: 0px;
+}
